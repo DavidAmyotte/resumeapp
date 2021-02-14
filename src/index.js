@@ -5,8 +5,8 @@ import { PDFViewer } from 'react-view-pdf';
 
 class Viewer extends Component {
     render() {
-        return ( <
-            PDFViewer url = "/damyotte.pdf" / >
+        return (
+            span > test < /span>
         );
     }
 }
