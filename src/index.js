@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 
 import { PDFViewer } from 'react-view-pdf';
 
-
 class Viewer extends Component {
     render() {
         return ( <
