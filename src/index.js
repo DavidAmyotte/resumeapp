@@ -5,7 +5,7 @@ import { PDFViewer } from 'react-view-pdf';
 
 class Viewer extends Component {
     render() {
-        return (
+        return ( <
             span > test < /span>
         );
     }
